@@ -23,6 +23,9 @@ public WebDriver driver;
 		driver.get("https://parabank.parasoft.com/parabank/index.htm");
 
 		System.out.println("Bank home page is launched successfully");
+		System.out.println("Bank home page is launched successfully2");
+		System.out.println("Bank home page is launched successfully4");
+		
 	}
 
 	@When("username and password are entered")
