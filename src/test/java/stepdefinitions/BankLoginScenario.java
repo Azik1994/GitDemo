@@ -25,6 +25,10 @@ public WebDriver driver;
 		System.out.println("Bank home page is launched successfully");
 		System.out.println("Bank home page is launched successfully2");
 		System.out.println("Bank home page is launched successfully4");
+		//
+		System.out.println("Bank home page is launched successfully23");
+		System.out.println("Bank home page is launched successfully55");
+		System.out.println("Bank home page is launched successfull66");
 		
 	}
 
